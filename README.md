@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 ### I am a Computer Engineering undergraduate from the National University of Singapore
 
 ### Connect with me at:
-[<img align="left" alt="Jerry Zhang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/jerry-zhang-3a5135185/]
+[![Linkedin Badge](https://img.shields.io/badge/-Jerry Zhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-zhang-3a5135185/)](https://www.linkedin.com/in/jerry-zhang-3a5135185/)
+
+---
 
 <a href="https://github.com/lucria">
 <img align="center" alt="Jerry's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucria&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github.com/lucria">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lucria&layout=compact&theme=radical" />
-</a>
