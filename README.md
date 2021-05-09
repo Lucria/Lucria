@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### I am a Computer Engineering undergraduate from the National University of Singapore
 
 ### Connect with me at:
-[![Linkedin Badge](https://img.shields.io/badge/-Jerry Zhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-zhang-3a5135185/)](https://www.linkedin.com/in/jerry-zhang-3a5135185/)
+[![Linkedin Badge](https://img.shields.io/badge/-JerryZhang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jerry-zhang-3a5135185/)](https://www.linkedin.com/in/jerry-zhang-3a5135185/)
 
 ---
 
