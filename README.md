@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/lucria">
-<img align="center" alt="Jerry's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucria&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="Jerry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lucria&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
